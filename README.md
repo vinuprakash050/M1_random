@@ -7,10 +7,6 @@
   * ## built on linux   
      [![Build CI - linux](https://github.com/vinuprakash050/M1_random/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vinuprakash050/M1_random/actions/workflows/c-cpp.yml)
      [![cppcheck](https://github.com/vinuprakash050/M1_random/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vinuprakash050/M1_random/actions/workflows/cppcheck.yml)
-  * ## devolopment tools
-     * gcc
-     * visual code to edit codes
-     * github to store the files public to be accessed by everyone
   * ## analysis
      * cpp check (static code)
      * valgrind (dynamic)
